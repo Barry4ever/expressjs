@@ -1,0 +1,15 @@
+{
+  "name": "webfutbol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "solc": "^0.4.24"
+  }
+}
